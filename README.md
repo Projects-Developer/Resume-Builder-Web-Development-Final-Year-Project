@@ -1,4 +1,4 @@
-# Resume-Builder-Web-Development-Final-Year-Project
+# Resume Builder Web Development Final Year Project
 The Resume Builder project is a web-based application designed With Code, Documents And Video tutorial
 
 ![Resume Builder ](https://github.com/user-attachments/assets/c38aef3d-160e-43c7-a72e-7000ea4632f5)
